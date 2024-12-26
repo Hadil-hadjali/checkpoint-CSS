@@ -1,0 +1,50 @@
+
+header { 
+    background-color: rgb(106, 106, 247);
+    background-size: cover;
+}
+h1 {
+    color: white;
+    position: relative;
+    left: 450px;
+    font-size: 40px;
+}
+nav {
+    margin-top: 30px;
+background-color: black;
+}
+
+
+    p{ 
+        color: rgb(4, 10, 2);
+        font-size: 20px;
+        display: inline-block;
+        position: relative;
+        bottom: -19px;
+        right: -30px;
+        width: 645px;
+    }
+    nav>a { 
+        margin-left: 12px;
+        position:relative;
+        left: 500px;
+        font-size: large; 
+        color: white; 
+        text-decoration: none;
+    }
+    img { 
+        position: absolute;
+        top: 140px;
+        left: 900px;
+    }
+    div {
+        padding-left: 6%;
+        padding-right: 10%;
+    }
+    button {
+        margin-top: 20px;
+        margin-left: 20px;
+    } 
+    #pied { 
+        border-top: 1px solid black;
+        }
